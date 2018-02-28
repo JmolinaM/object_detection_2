@@ -1,0 +1,10 @@
+item {
+  name: "bag"
+  id: 1
+  display_name: "bag"
+}
+item {
+  name: "laptop"
+  id: 2
+  display_name: "laptop"
+}

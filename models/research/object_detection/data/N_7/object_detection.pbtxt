@@ -1,0 +1,35 @@
+item {
+  name: "bag"
+  id: 1
+  display_name: "bag"
+}
+item {
+  name: "laptop"
+  id: 2
+  display_name: "laptop"
+}
+item {
+  name: "chair"
+  id: 3
+  display_name: "chair"
+}
+item {
+  name: "phone"
+  id: 4
+  display_name: "phone"
+}
+item {
+  name: "remote"
+  id: 5
+  display_name: "remote"
+}
+item {
+  name: "bin"
+  id: 6
+  display_name: "bin"
+}
+item {
+  name: "box"
+  id: 7
+  display_name: "box"
+}
