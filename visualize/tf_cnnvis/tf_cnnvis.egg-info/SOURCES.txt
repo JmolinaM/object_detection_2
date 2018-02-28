@@ -1,0 +1,9 @@
+setup.py
+tf_cnnvis/__init__.py
+tf_cnnvis/tf_cnnvis.py
+tf_cnnvis/utils.py
+tf_cnnvis.egg-info/PKG-INFO
+tf_cnnvis.egg-info/SOURCES.txt
+tf_cnnvis.egg-info/dependency_links.txt
+tf_cnnvis.egg-info/requires.txt
+tf_cnnvis.egg-info/top_level.txt
