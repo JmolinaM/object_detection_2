@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_bag_2</folder>
+	<filename>VID_20180112_114659775_005.jpg</filename>
+	<path>C:\Users\jesus.moliname\Desktop\train_bag_2\VID_20180112_114659775_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>664</width>
+		<height>1182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>564</ymin>
+			<xmax>279</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+</annotation>

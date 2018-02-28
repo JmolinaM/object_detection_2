@@ -1,0 +1,26 @@
+<annotation>
+	<folder>portatil</folder>
+	<filename>vid_22_100.jpg</filename>
+	<path>C:\Users\jesus.moliname\Desktop\train\portatil\vid_22_100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>664</width>
+		<height>1182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laptop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>322</ymin>
+			<xmax>421</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

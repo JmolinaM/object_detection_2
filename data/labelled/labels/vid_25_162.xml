@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bag</folder>
+	<filename>vid_25_162.jpg</filename>
+	<path>C:\Users\jesus.moliname\Desktop\train\bag\vid_25_162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>664</width>
+		<height>1182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>441</ymin>
+			<xmax>482</xmax>
+			<ymax>845</ymax>
+		</bndbox>
+	</object>
+</annotation>

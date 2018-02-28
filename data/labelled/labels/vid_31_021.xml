@@ -1,0 +1,26 @@
+<annotation>
+	<folder>remote</folder>
+	<filename>vid_31_021.jpg</filename>
+	<path>C:\Users\jesus.moliname\Desktop\train\remote\vid_31_021.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>664</width>
+		<height>1182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>524</ymin>
+			<xmax>482</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>
